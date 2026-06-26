@@ -1,4 +1,4 @@
-İlk Önce KroxsBooster'i İndirin Ve ZIP Klasörünün İçinde PowerShell Açıp Orada 
+İlk Önce KroxsBooster'i İndirin Ve ZIP Klasörünün İçinden Kroxsbooster-main Klasöürünü Çıkartın ve Klasörün İçinde PowerShell Açıp Orada 
   
 
 ---------------------------------------------
