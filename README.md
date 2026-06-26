@@ -1,0 +1,1 @@
+Kroxssy Booster, Windows işletim sistemlerinde oyun oynarken performansı artırmaya yardımcı olan hafif bir optimizasyon aracıdır. Sistem kaynaklarını düzenleyerek arka plan yükünü azaltır, geçici dosyaları temizler ve yüksek performans güç planını etkinleştirir. Minecraft, Valorant ve CS2 gibi oyunları algılayarak otomatik veya manuel “Game Mode” çalıştırabilir.
