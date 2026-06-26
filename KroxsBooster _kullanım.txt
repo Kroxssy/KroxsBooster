@@ -1,0 +1,8 @@
+İlk Önce KroxsBooster'i İndirin Ve ZIP Klasörünün İçinde PowerShell Açıp Orada 
+  
+
+---------------------------------------------
+Set-ExecutionPolicy -Scope Process Bypass
+.\KroxssyBooster.ps1
+---------------------------------------------
+Bu Kutu İçindeki Kodu Yazın.Sonra İstediğiniz Seçeneği Yazın.Artık KroxsBooster Kullanıyorsunuz!
