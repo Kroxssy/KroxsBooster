@@ -3,6 +3,6 @@
 
 ---------------------------------------------
 Set-ExecutionPolicy -Scope Process Bypass
-.\KroxssyBooster.ps1
+.\KroxssyBooster (2).ps1
 ---------------------------------------------
 Bu Kutu İçindeki Kodu Yazın.Sonra İstediğiniz Seçeneği Yazın.Artık KroxsBooster Kullanıyorsunuz!
